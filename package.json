@@ -1,0 +1,11 @@
+{
+  "name": "amfora",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node source/build.js"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.2.5"
+  }
+}
