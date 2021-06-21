@@ -67,7 +67,7 @@ Object.keys(palette).forEach((variant) => {
     filename,
     toml.stringify(JSON.parse(theme)),
     function (error) {
-      if (err) return console.error(error);
+      if (error) return console.error(error);
     }
   );
 });
