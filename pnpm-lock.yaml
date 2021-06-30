@@ -1,0 +1,20 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@iarna/toml': ^2.2.5
+  '@rose-pine/palette': ^0.1.0
+
+devDependencies:
+  '@iarna/toml': 2.2.5
+  '@rose-pine/palette': 0.1.0
+
+packages:
+
+  /@iarna/toml/2.2.5:
+    resolution: {integrity: sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==}
+    dev: true
+
+  /@rose-pine/palette/0.1.0:
+    resolution: {integrity: sha512-DakI2DXuEWhmaIzmBX3g6Q36lWP6Gk1YkvEDZJALWGIif2AlDOkNSWrNdy3NLC+HCmUohdKwX3UtBzZFtk7WgA==}
+    engines: {node: '>=12'}
+    dev: true

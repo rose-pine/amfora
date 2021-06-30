@@ -2,10 +2,12 @@
   "name": "amfora",
   "version": "0.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "node source/build.js"
   },
-  "dependencies": {
-    "@iarna/toml": "^2.2.5"
+  "devDependencies": {
+    "@iarna/toml": "^2.2.5",
+    "@rose-pine/palette": "^0.1.0"
   }
 }
