@@ -1,21 +1,19 @@
-[theme]
-
 bg = "$base"
 tab_num = "$iris"
-tab_divider = "$inactive"
+tab_divider = "$highlightMed"
 bottombar_label = "$iris"
 bottombar_text = "$text"
 bottombar_bg = "$surface"
-scrollbar = "$overlay"
+scrollbar = "$highlightLow"
 
-hdg_1 = "$rose"
-hdg_2 = "$rose"
+hdg_1 = "$iris"
+hdg_2 = "$foam"
 hdg_3 = "$rose"
 amfora_link = "$gold"
-foreign_link = "$foam"
-link_number = "$subtle"
+foreign_link = "$subtle"
+link_number = "$muted"
 regular_text = "$text"
-quote_text = "$pine"
+quote_text = "$text"
 preformatted_text = "$text"
 list_text = "$text"
 

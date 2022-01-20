@@ -13,8 +13,14 @@
 
 ## Usage
 
-1. Open `~/.config/amfora/config.toml`
-2. Replace `[theme]` section with contents from `rose-pine.toml`
+1. Download themes
+
+```sh
+npx degit rose-pine/amfora/themes ~/.config/amfora/themes
+```
+
+2. Open `~/.config/amfora/config.toml`
+3. Add `include = "./rose-pine.toml"` or other variant
 
 ## Gallery
 

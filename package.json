@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node source/build.js"
+    "build": "node build.js"
   },
   "devDependencies": {
     "@iarna/toml": "^2.2.5",
-    "@rose-pine/palette": "^0.1.0"
+    "@rose-pine/palette": "^2.0.0-7"
   }
 }
