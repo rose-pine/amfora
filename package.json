@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "@iarna/toml": "^2.2.5",
-    "@rose-pine/palette": "^2.0.0-7"
+    "@rose-pine/palette": "^2.1.0"
   }
 }
